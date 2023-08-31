@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>phone models</title>
+</head>
+<body><center>
+    <h1>MOBILE MODELS<hr></h1> 
+    </center>
+    <h3><a href="https://www.bing.com/search?pglt=2211&q=vivo&cvid=e37590516ff34f508322027e4f04e417&aqs=edge.0.0j46j0l7.2959j0j1&FORM=ANNTA1&PC=ACTS">>VIVO</a></h3>
+    <h3> <a href ="https://www.bing.com/search?pglt=2211&q=oppo&cvid=11d8b1f52fac4583a517da0d4548f26f&aqs=edge.0.0j46l2j0l6.3048j0j1&FORM=ANNTA1&PC=ACTS">>OPPO</a></h3>
+    <h3><a href ="https://www.bing.com/search?pglt=2211&q=apple&cvid=8cd17d9a8a7a44d4be2771a88604e4dc&aqs=edge..69i57.5271j0j1&FORM=ANNTA1&PC=ACTS">>APPLE</a></h3>
+    <h3><a href ="https://www.bing.com/search?q=samsung+mobile&aqs=edge.1.46j0l2j69i64i450l5.14766j0j9&FORM=ANAB01&PC=ACTS">>SAMSUNG</a></h3>
+    <img src="image.png" >
+    <p><b> mobile phone is a wireless handheld device </b>that allows users to make and receive calls. While the earliest generation of mobile phones could only make and receive calls, today’s mobile phones do a lot more, accommodating web browsers, games, cameras, video players and navigational systems.</p>
+</body>
+</html>
